@@ -1,0 +1,164 @@
+{
+  "pilotos": [
+    {
+      "id": 0,
+      "nombre": "Max Verstappen",
+      "equipo": "Red Bull Racing",
+      "nacionalidad": "Países Bajos",
+      "edad": 27,
+      "imagen": "Max Verstappen 2025"
+    },
+    {
+      "id": 1,
+      "nombre": "Carlos Sainz",
+      "equipo": "Williams",
+      "nacionalidad": "España",
+      "edad": 30,
+      "imagen": "Carlos Sainz 2025"
+    },
+    {
+      "id": 2,
+      "nombre": "Lewis Hamilton",
+      "equipo": "Ferrari",
+      "nacionalidad": "Reino Unido",
+      "edad": 40,
+      "imagen": "Lewis Hamilton 2025"
+    },
+    {
+      "id": 3,
+      "nombre": "Charles Leclerc",
+      "equipo": "Ferrari",
+      "nacionalidad": "Mónaco",
+      "edad": 27,
+      "imagen": "Charles Leclerc 2025"
+    },
+    {
+      "id": 4,
+      "nombre": "Lando Norris",
+      "equipo": "McLaren",
+      "nacionalidad": "Reino Unido",
+      "edad": 25,
+      "imagen": "Lando Norris 2025"
+    },
+    {
+      "id": 5,
+      "nombre": "Oscar Piastri",
+      "equipo": "McLaren",
+      "nacionalidad": "Australia",
+      "edad": 24,
+      "imagen": "Oscar Piastri 2025"
+    },
+    {
+      "id": 6,
+      "nombre": "George Russell",
+      "equipo": "Mercedes",
+      "nacionalidad": "Reino Unido",
+      "edad": 27,
+      "imagen": "George Russell 2025"
+    },
+    {
+      "id": 7,
+      "nombre": "Gabriel Bortoleto",
+      "equipo": "Kick Sauber",
+      "nacionalidad": "Brasil",
+      "edad": 20,
+      "imagen": "Gabriel Bortoleto 2025"
+    },
+    {
+      "id": 8,
+      "nombre": "Fernando Alonso",
+      "equipo": "Aston Martin",
+      "nacionalidad": "España",
+      "edad": 43,
+      "imagen": "Fernando Alonso 2025"
+    },
+    {
+      "id": 9,
+      "nombre": "Lance Stroll",
+      "equipo": "Aston Martin",
+      "nacionalidad": "Canadá",
+      "edad": 26,
+      "imagen": "Lance Stroll 2025"
+    },
+    {
+      "id": 10,
+      "nombre": "Pierre Gasly",
+      "equipo": "Alpine",
+      "nacionalidad": "Francia",
+      "edad": 29,
+      "imagen": "Pierre Gasly 2025"
+    },
+    {
+      "id": 11,
+      "nombre": "Esteban Ocon",
+      "equipo": "Haas",
+      "nacionalidad": "Francia",
+      "edad": 28,
+      "imagen": "Esteban Ocon 2025"
+    },
+    {
+      "id": 12,
+      "nombre": "Alexander Albon",
+      "equipo": "Williams",
+      "nacionalidad": "Tailandia",
+      "edad": 29,
+      "imagen": "Alexander Albon 2025"
+    },
+    {
+      "id": 13,
+      "nombre": "Isack Hadjar",
+      "equipo": "Racing Bulls",
+      "nacionalidad": "France",
+      "edad": 20,
+      "imagen": "Isack Hadjar 2025"
+    },
+    {
+      "id": 14,
+      "nombre": "Yuki Tsunoda",
+      "equipo": "Racing Bulls",
+      "nacionalidad": "Japón",
+      "edad": 24,
+      "imagen": "Yuki Tsunoda 2025"
+    },
+    {
+      "id": 15,
+      "nombre": "Liam Lawson",
+      "equipo": "Red Bull Racing",
+      "nacionalidad": "Nueva Zelanda",
+      "edad": 23,
+      "imagen": "Liam Lawson 2025"
+    },
+    {
+      "id": 16,
+      "nombre": "Jack Doohan",
+      "equipo": "Alpine",
+      "nacionalidad": "Australia",
+      "edad": 21,
+      "imagen": "Jack Doohan 2025"
+    },
+    {
+      "id": 17,
+      "nombre": "Nico Hülkenberg",
+      "equipo": "Kick Sauber",
+      "nacionalidad": "Alemania",
+      "edad": 37,
+      "imagen": "Nico Hülkenberg 2025"
+    },
+    {
+      "id": 18,
+      "nombre": "Kimi Antonelli",
+      "equipo": "Mercedes",
+      "nacionalidad": "Italia",
+      "edad": 18,
+      "imagen": "Kimi Antonelli 2025"
+    },
+    {
+      "id": 19,
+      "nombre": "Olivier Bearman",
+      "equipo": "Haas",
+      "nacionalidad": "Reino Unido",
+      "edad": 20,
+      "imagen": "Olivier Bearman 2025"
+    }
+  ]
+}
